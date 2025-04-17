@@ -7,4 +7,4 @@ Calculates the time until the boss dies every second.
 
 ## Customization
 To edit the update interval, change the `checkInterval` value (in seconds). To edit the position, change `X_Offset` and `Y_offset`.
-No SavedVariables because I'm lazy !!!!!
+No SavedVariables because I'm lazy !!!!! fuck you
